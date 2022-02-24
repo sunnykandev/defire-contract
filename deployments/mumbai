@@ -1,0 +1,24 @@
+
+- daoFund deployed to: 0xd46A7cCC7fc0437E0BdC96C4F33faBa6abcAAdD0
+- devFund deployed to: 0xFF43e9DD2FF4738e54e04A09E34E794AB4901173
+- MockInvestToken deployed to: 0x58c034b23B09EFb28E927807D15F9B965Dcdc302
+MockInvestToken decimals: 18
+- TombToken deployed to: 0x28b39f3C976A7Ef35F3DaE02F6167766F9A1E125
+TombToken decimals: 18
+- TBondToken deployed to: 0x4Bf6D788abf0F20b96A00621B426C94746FD0a82
+TBondToken decimals: 18
+- TShareToken deployed to: 0xB17E06aB29098280BAD473fD61E6570F1C814401
+TShareToken decimals: 18
+-- DAO Treasury deployed to: 0x344f7b21D397D29E389A27087b93a98250d931f4
+-- Masonry deployed to: 0x58AcD17E6643725Ad5C6108E9394995Ac5556709
+
+
+- Oracle deployed to: 0x9547B95151C856610ec1D3Cc4ddcfaf95dFc1e8E
+-- Oracle starttime: 1644939620
+
+- genesisPool deployed to: 0x8AB6D795349331A2dEDBa7120b0445849DEe1FD5
+- tombrewardpool deployed to: 0xDa9C952d74ee97fB7055fbD23ec97e31D9E934C2
+- tsharerwardpool deployed to: 0x3deb4F1fE7AC8982522D3DECdFf2dA18618E4d9c
+
+
+

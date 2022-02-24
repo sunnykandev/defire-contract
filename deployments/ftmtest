@@ -1,0 +1,12 @@
+- daoFund deployed to: 0x1097F39b413EBc58d0b0cE683A5e3dB6e8D6c196
+- devFund deployed to: 0x8472B595158aB3Cf520dE4a41b3b63dDd0Fb18Ec
+- MockInvestToken deployed to: 0xeC7c44fdA9D65c397D52b815d9BCFD92e18fF707
+MockInvestToken decimals: 18
+- TombToken deployed to: 0x2485BeDb88d9ba684A8afeB1a73138C48A2A2E05
+TombToken decimals: 18
+- TBondToken deployed to: 0x427bc9BdB5475bb5836E7741b557A842C63D3dd0
+TBondToken decimals: 18
+- TShareToken deployed to: 0x65b61890C34B14D53C2507a308e92110f9Bf2D83
+TShareToken decimals: 18
+-- DAO Treasury deployed to: 0x9e7aebe56b21b8daA087b640F6bb3cF696D588f0
+-- Masonry deployed to: 0xd4899C6fbadA9199EB6C64C19b7D98A37e85E704
